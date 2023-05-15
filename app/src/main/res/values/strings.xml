@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Уход за растениями</string>
+    <string name="login">Логин</string>
+    <string name="no_account">Нет аккаунта? <b>Зарег.</b></string>
+    <string name="setting">Настройки</string>
+    <string name="search">Поиск</string>
+    <string name="my_plant">Мои Растения</string>
+    <string name="home">Главная</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">profile</string>
+    <string name="the_time_for_watering_alarm_in">The time for watering 💦 alarm in:</string>
+    <string name="the_time_for_light_alarm">The time for light 💡 alarm:</string>
+    <string name="Title">Title</string>
+    <string name="message">Message</string>
+    <string name="schedule_notification">Schedule Notification</string>
+    <string name="title">title</string>
+    <string name="login_to_your_account">login to your account</string>
+    <string name="email1">Email</string>
+    <string name="login2">Login</string>
+    <string name="welcome">welcome!</string>
+    <string name="taking_care_of_plants_has_never_been_easier_but_with_plant_life_it_will_be_fun">Taking care of plants has never been easier, but with \'Plant Life\' it will be fun</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="alredy_have_account">alredy have account</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="signup">SignUp</string>
+    <string name="creat_a_new_account">Creat a New Account</string>
+    <string name="email">Email</string>
+    <string name="lighting">Lighting</string>
+    <string name="tempreture">Tempreture</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="bio">Bio</string>
+    <string name="save">Save</string>
+    <string name="logout">Logout</string>
+    <string name="watring">Watring</string>
+    <string name="set_alarem">Set Alarm</string>
+    <string name="select_your_language">Select your language</string>
+    <string name="set_alarm">Установить напоминание</string>
+    <string name="edit_info">Edit Info</string>
+    <string name="profile_p">Профиль</string> <!--make signup bold-->
+</resources>
